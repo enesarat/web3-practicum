@@ -1,0 +1,16 @@
+C:\Users\Enes\Desktop\PatikaDev Akbank\bin\Debug\net5.0\PatikaDev Akbank.exe
+C:\Users\Enes\Desktop\PatikaDev Akbank\bin\Debug\net5.0\PatikaDev Akbank.deps.json
+C:\Users\Enes\Desktop\PatikaDev Akbank\bin\Debug\net5.0\PatikaDev Akbank.runtimeconfig.json
+C:\Users\Enes\Desktop\PatikaDev Akbank\bin\Debug\net5.0\PatikaDev Akbank.runtimeconfig.dev.json
+C:\Users\Enes\Desktop\PatikaDev Akbank\bin\Debug\net5.0\PatikaDev Akbank.dll
+C:\Users\Enes\Desktop\PatikaDev Akbank\bin\Debug\net5.0\ref\PatikaDev Akbank.dll
+C:\Users\Enes\Desktop\PatikaDev Akbank\bin\Debug\net5.0\PatikaDev Akbank.pdb
+C:\Users\Enes\Desktop\PatikaDev Akbank\obj\Debug\net5.0\PatikaDev Akbank.csproj.AssemblyReference.cache
+C:\Users\Enes\Desktop\PatikaDev Akbank\obj\Debug\net5.0\PatikaDev Akbank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enes\Desktop\PatikaDev Akbank\obj\Debug\net5.0\PatikaDev Akbank.AssemblyInfoInputs.cache
+C:\Users\Enes\Desktop\PatikaDev Akbank\obj\Debug\net5.0\PatikaDev Akbank.AssemblyInfo.cs
+C:\Users\Enes\Desktop\PatikaDev Akbank\obj\Debug\net5.0\PatikaDev Akbank.csproj.CoreCompileInputs.cache
+C:\Users\Enes\Desktop\PatikaDev Akbank\obj\Debug\net5.0\PatikaDev Akbank.dll
+C:\Users\Enes\Desktop\PatikaDev Akbank\obj\Debug\net5.0\ref\PatikaDev Akbank.dll
+C:\Users\Enes\Desktop\PatikaDev Akbank\obj\Debug\net5.0\PatikaDev Akbank.pdb
+C:\Users\Enes\Desktop\PatikaDev Akbank\obj\Debug\net5.0\PatikaDev Akbank.genruntimeconfig.cache
